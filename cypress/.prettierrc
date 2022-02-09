@@ -1,0 +1,15 @@
+{
+    "tabWidth": 4,
+    "trailingComma": "es5",
+    "bracketSpacing": true,
+    "requirePragma": false,
+    "printWidth": 90,
+    "overrides": [
+        {
+            "files": "*.yml",
+            "options": {
+                "tabWidth": 2
+            }
+        }
+    ]
+}
